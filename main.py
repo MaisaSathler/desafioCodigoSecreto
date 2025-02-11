@@ -1,5 +1,15 @@
 ######## 📌Desafio 1: O Código Secreto da Escola Vai na Web ########
 
+#Você é um(a) estudante 🎓 apaixonado(a) por tecnologia que acaba de ser aceito(a) no Vai na Web, uma super escola de tecnologia onde os alunos resolvem desafios de programação para avançar nos estudos.
+
+#Mas há um problema! ⚠️ Um vírus misterioso invadiu o sistema, bagunçando notas, permissões de acesso 🔐 e até a segurança da escola. O diretor, Professor Byte, precisa da sua ajuda para restaurar tudo antes que a situação piore!
+#Resolva os desafios abaixo para recuperar o controle do sistema. Boa sorte, Dev!🚀
+
+
+
+#--------------------------------------------------------------------------------------#
+
+
 # Missão 1: Restaurando as Regras Escolares 📝
 
 # O vírus apagou os critérios de aprovação dos alunos! Para ajudar o Professor Byte a organizar o sistema, sua tarefa é criar um programa que verifique se um aluno foi aprovado (nota maior ou igual à 6) ou reprovado (nota menor ou igual à 5). RESOLUÇÃO:
@@ -165,3 +175,10 @@ def contar_letras(nome):
     return f"O nome {nome} tem {quantidade_letras} letras"
 
 print(contar_letras("Vinicius"))
+
+
+
+#--------------------------------------------------------------------------------------#
+
+
+#🔹 Você restaurou a escola Vai na Web! 🎉 Com cada desafio superado, você ajudou a salvar o sistema. Agora, você se tornou um(a) verdadeiro(a) programador(a) FullStack lendário(a)!!! 🚀
